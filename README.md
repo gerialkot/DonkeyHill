@@ -24,7 +24,7 @@ composite background for home-scale virtual
 production, like puppeteering before a green
 screen, or make an explainer video.
 
-#How does it work?
+# How does it work?
 
 This setup uses a NodeMCU Esp8266, to drive
 an RGB led chip using 3 MOSFET with pulse-width
@@ -39,6 +39,6 @@ if everything goes well, it starts to work
 automatically once powered on. And tells you
 all the important informations using an oled display.
 
-#What Hardware do I need?
+# What Hardware do I need?
 
 this part will be full of pictures and connection diagrams.
